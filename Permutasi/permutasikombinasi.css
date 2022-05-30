@@ -1,0 +1,48 @@
+/*navbar*/
+.navbar{
+	background-color:#0b2e4f;
+	margin-bottom:.5em
+}
+
+.navbar-brand>img{
+	max-height:50px
+}
+/*akhir-navbar*/
+
+/*isi*/
+h2{
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 50px;
+}
+
+#imgvina{
+	width: 200px;
+	height: 270px;
+}
+#imgilham{
+	width: 200px;
+	height: 275px;
+}
+#imgudin{
+	width: 200px;
+	height: 275px;
+}
+#imgsuci{
+	width: 200px;
+	height: 275px;
+}
+/*akhir-isi*/
+
+/*footer*/
+.footer{
+	background-color:#0b2e4f;
+	margin-top:5em;
+	padding:1em 1em .5em;
+	color:#dcdcdc;font-size:.75em
+}
+
+.footer a{
+	color:#dcdcdc
+	}p
+/*akhir-footer*/
