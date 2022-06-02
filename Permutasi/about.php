@@ -95,9 +95,7 @@
 	</div>
 	<!-- akhir-footer -->
 
-	<script src="counting.js" type="text/javascript">
 
-	</script>
 	
 </body>
 </html>
