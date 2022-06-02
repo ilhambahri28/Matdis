@@ -97,7 +97,7 @@
 	P_berulang=n^r,dengan r≤n<br />
 	<br />
     <div class="feature-box">
-							<h1>Pengertian Permutasi</h1>
+							<h1>Pengertian Kombinasi</h1>
 						</div>
                         <br>
 						<div class="feature-box">
@@ -140,9 +140,6 @@
 	</div>
 	<!-- akhir-footer -->
 
-	<script src="counting.js" type="text/javascript">
-
-	</script>
 	
 </body>
 </html>
